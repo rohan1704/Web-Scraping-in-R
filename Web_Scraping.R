@@ -66,8 +66,7 @@ length(rating) # 10
 #===============================================
 # Combining all in a data frame
 #===============================================
-show.df = data.frame(Show = show_name, Date = date,
-                     Review = review, Rating = rating)
+show.df = data.frame(Show = show_name, Date = date, Review = review, Rating = rating)
 
 # View Data frame
 View(show.df)

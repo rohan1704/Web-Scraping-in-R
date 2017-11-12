@@ -5,6 +5,6 @@
 
 #### In R it can be done with ‘rvest’ package, authored by Hadley Wickham.
 
-#### The website used in this project is review page for the show "Arrow".
+#### The website used in this project is IMDb review page for the show "Arrow".
 
 #### All the scrapped data is then stored in a dataframe, and saved in a csv file with show's name and system date.
